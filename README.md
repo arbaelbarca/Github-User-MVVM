@@ -5,4 +5,4 @@ Technology using :
 - Room
 - Groupie
 - Pagination
-- koin
+- Koin (Depedency Injection)
